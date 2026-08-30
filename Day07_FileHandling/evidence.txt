@@ -1,0 +1,5 @@
+HDD
+SSD
+USB
+Mobile
+Laptop

@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Allow synthetic Day 07 forensic sample logs
+!Day07_FileHandling/*.log
